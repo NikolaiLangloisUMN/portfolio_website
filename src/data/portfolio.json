@@ -19,5 +19,46 @@
     "description": "some description",
     "thumbnail": "item2.jpg",
     "highResImages": ["path/to/highResImage/1", "path/to/highResImage/2"]
+  },
+  {
+    "id": 3,
+    "title": "A day at the beach",
+    "yearCreated": 2025,
+    "medium": "photography",
+    "type": "outdoor",
+    "description": "A lovely day on a Hawaiian beach",
+    "thumbnail": "item3.jpg",
+    "highResImages": ["path/to/highResImage/1", "path/to/highResImage/2"]
+  },
+  {
+    "id": 4,
+    "title": "A collage of college students",
+    "yearCreated": 2020,
+    "medium": "black and white",
+    "type": "photography",
+    "description": "I took a photo of my morose students in my Web Dev class",
+    "thumbnail": "item4.jpg",
+    "highResImages": ["path/to/highResImage/1", "path/to/highResImage/2"],
+    "youTubeUrl": "url to YouTube video"
+  },
+  {
+    "id": 5,
+    "title": "A toy package design",
+    "yearCreated": 2022,
+    "medium": "",
+    "type": "packaging",
+    "description": "some description",
+    "thumbnail": "item5.jpg",
+    "highResImages": ["path/to/highResImage/1", "path/to/highResImage/2"]
+  },
+  {
+    "id": 6,
+    "title": "A day at the beach",
+    "yearCreated": 2025,
+    "medium": "photography",
+    "type": "outdoor",
+    "description": "A lovely day on a Hawaiian beach",
+    "thumbnail": "item6.jpg",
+    "highResImages": ["path/to/highResImage/1", "path/to/highResImage/2"]
   }
 ]
